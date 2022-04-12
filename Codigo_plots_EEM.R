@@ -3,6 +3,8 @@ library(ggplot2)
 library(dplyr)
 library(stringr)
 
+# Codigo para generar gráficos de las encuestas de google
+
 setwd("C:/Github-DER/EEM Jurel")
 
 dat <- read_excel("Datos-Taller1/Respuestas Taller 1.xlsx")
